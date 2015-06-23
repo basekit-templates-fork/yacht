@@ -144,7 +144,7 @@
         },
         "font10": {
             "font-family": "\"Futura\", Helvetica, sans-serif",
-            "font-size": "22px",
+            "font-size": "24px",
             "font-weight": "700",
             "line-height": "36px",
             "color": "@color-swatch6",
