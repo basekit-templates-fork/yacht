@@ -67,7 +67,7 @@
     "fontSwatch": {
        "title": "Montserrat",
         "font1": {
-            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Futura\", Helvetica, sans-serif",
             "font-size": "32px",
             "font-weight": "700",
             "line-height": "44px",
@@ -75,7 +75,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Futura\", Helvetica, sans-serif",
             "font-size": "26px",
             "font-weight": "700",
             "line-height": "39px",
@@ -83,7 +83,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Futura\", Helvetica, sans-serif",
             "font-size": "22px",
             "font-weight": "700",
             "line-height": "40px",
@@ -91,7 +91,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Futura\", Helvetica, sans-serif",
             "font-size": "18px",
             "font-weight": "700",
             "line-height": "32px",
@@ -128,7 +128,7 @@
             "background-color-hover": "darken(@color-swatch3,5%)"
         },
         "font8": {
-            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Futura\", Helvetica, sans-serif",
             "font-size": "32px",
             "font-weight": "700",
             "line-height": "44px",
@@ -144,7 +144,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Futura\", Helvetica, sans-serif",
             "font-size": "22px",
             "font-weight": "700",
             "line-height": "36px",
