@@ -172,6 +172,10 @@
     float: left;
     clear: both;
 
+    &:hover {
+        background-color: darken(@widget-bg-color,10%);
+    }
+
     @media @feature-large {
         font-size: bkscale(@font-swatch9-font-size, 0.78);
     }
