@@ -1,4 +1,4 @@
-Facet
+Yacht
 =========
 
-BaseKit Template
+BaseKit Template based on Facet
