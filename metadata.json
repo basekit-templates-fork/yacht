@@ -1,7 +1,7 @@
 {
     "name":"Yacht",
     "widgetVersion": 2,
-    "thumbnail":"facet.png",
+    "thumbnail":"yacht.png",
     "templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
@@ -11,8 +11,7 @@
     },
      "images":[
         "images/feature-bg.jpg",
-        "images/feature-bg2.jpg",
-        "images/feature-bg3.jpg",
+        "images/feature-bg-1.jpg",
         "images/logo.png",
         "images/body-bg.jpg"
     ],
