@@ -27,13 +27,13 @@
             "color7":"#000000"
         },
         "Swatch 2": {
-            "color1":"#222222",
-            "color2":"#313131",
+            "color1":"#ffffff",
+            "color2":"#f1f1f1",
             "color3":"#b9e5dd",
-            "color4":"#ffffff",
-            "color5":"#e8e8e8",
-            "color6":"#131313",
-            "color7":"#ffffff"
+            "color4":"#222222",
+            "color5":"#222222",
+            "color6":"#222222",
+            "color7":"#000000"
         },
         "Swatch 3": {
             "color1":"#ffffff",
